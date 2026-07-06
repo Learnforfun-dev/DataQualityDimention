@@ -1,0 +1,6 @@
+Only sample/public datasets will be committed. Anything large or confidential stays out of Git.
+sample/
+
+raw/
+
+processed/
